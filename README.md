@@ -7,6 +7,7 @@ This is a repository with some quick tips, mostly on HTML and CSS.
 
 The best way I've found so far is to use a `display: flex` to make the content take all the available space that is not the footer. 
 
+The HTML:
 ```HTML
 <div class="wrapper">
   <div class="content">
@@ -18,6 +19,7 @@ The best way I've found so far is to use a `display: flex` to make the content t
 </div>
 ```
 
+The CSS:
 ```CSS
 .wrapper {
   display: flex;
