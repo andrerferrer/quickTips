@@ -19,9 +19,29 @@ class Controller < ApplicationController
 
 If we want it to not show on users new and edit, with [devise](https://github.com/heartcombo/devise), we need to [expose the controller](https://github.com/heartcombo/devise#configuring-controllers).
 
+### Change body style according to the page
+
+The case: Imagine that we want to implement a different bg-color certain pages. How can we do it?
+
+In the `app/views/layouts/application.html.erb`, we can add to the `body`:
+```erb
+<body class="<%= action_name > <%= controller_name >">
+```
+
+Hence, we can apply the css according to the controller and action:
+```CSS
+body.pages.home {
+  /* Style for the body on pages home */
+}
+
+body.pages.about {
+  /* Style for the body on pages about */
+}
+```
+
 ## CSS
 ### Footer
-#### 1. Stick it to the bottom
+#### Stick it to the bottom
 
 The best way I've found so far is to use a `display: flex` to make the content take all the available space that is not the footer. 
 
