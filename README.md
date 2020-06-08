@@ -4,8 +4,9 @@ This is a repository with some quick tips, mostly on HTML and CSS.
 
 [Also check my demos.](https://github.com/andrerferrer/dedemos)
 
-## Footer
-### 1. Stick it to the bottom
+## CSS
+### Footer
+#### 1. Stick it to the bottom
 
 The best way I've found so far is to use a `display: flex` to make the content take all the available space that is not the footer. 
 
