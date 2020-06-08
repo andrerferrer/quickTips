@@ -1,6 +1,7 @@
 # quickTips
 
 This is a repository with some quick tips, mostly on HTML and CSS.
+
 [Also check my demos.](https://github.com/andrerferrer/dedemos)
 
 ## Footer
