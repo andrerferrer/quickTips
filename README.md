@@ -13,6 +13,8 @@ class Controller < ApplicationController
   layout 'my_layout_without_a_footer', only: [:new, :index]
 ```
 
+If we want it to not show on users new and edit, with [devise](https://github.com/heartcombo/devise), we need to [expose the controller](https://github.com/heartcombo/devise#configuring-controllers).
+
 ## CSS
 ### Footer
 #### 1. Stick it to the bottom
