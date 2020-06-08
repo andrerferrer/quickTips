@@ -4,6 +4,10 @@ This is a repository with some quick tips, mostly on HTML and CSS.
 
 [Also check my demos.](https://github.com/andrerferrer/dedemos)
 
+## General Resources
+### [Excel to Array](https://www.seabreezecomputers.com/excel2array/)
+
+
 ## Rails
 ### Show/Remove Navbar/Footer only on certain pages
 
