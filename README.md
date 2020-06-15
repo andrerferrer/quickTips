@@ -40,7 +40,21 @@ body.pages.about {
 ```
 
 ## CSS
+
+### Position: Absolute
+#### Centralize it
+```CSS
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  //If needed
+  //text-align: center;
+```
+
 ### Footer
+
 #### Stick it to the bottom
 
 The best way I've found so far is to use a `display: flex` to make the content take all the available space that is not the footer. 
