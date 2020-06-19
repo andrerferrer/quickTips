@@ -6,7 +6,7 @@ This is a repository with some quick tips, mostly on HTML and CSS.
 
 ## General Resources
 ### [Excel to Array](https://www.seabreezecomputers.com/excel2array/)
-
+### [Git Troubleshooting Cheatsheet](https://ohshitgit.com/)
 
 ## Rails
 ### [Schema.rb into schema draw](https://dbdiagram.io/d)
