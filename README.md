@@ -9,6 +9,8 @@ This is a repository with some quick tips, mostly on HTML and CSS.
 
 
 ## Rails
+### [Schema.rb into schema draw](https://dbdiagram.io/d)
+
 ### Show/Remove Navbar/Footer only on certain pages
 
 Add a [new layout](https://guides.rubyonrails.org/layouts_and_rendering.html) and call it in the controller
