@@ -1,6 +1,6 @@
 # quickTips
 
-This is a repository with some quick tips, mostly on HTML and CSS.
+This is a repository with some quick tips. 
 
 [Also check my demos.](https://github.com/andrerferrer/dedemos)
 
