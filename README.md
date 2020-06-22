@@ -59,7 +59,7 @@ body.pages.about {
 
 #### Stick it to the bottom
 
-The best way I've found so far is to use a `display: flex` to make the content take all the available space that is not the footer. 
+Use a `display: flex` to make the content take all the available space that is not the footer. 
 
 The HTML:
 ```HTML
