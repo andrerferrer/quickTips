@@ -44,6 +44,24 @@ body.pages.about {
 }
 ```
 
+### [Create a link to nowhere in rails](https://stackoverflow.com/questions/12081156/rails-using-link-to-to-make-a-link-without-href)
+
+```ruby
+content_tag 'a', "text"
+```
+
+it generates:
+
+```HTML
+<a>text</a>
+```
+
+You an also create a `link_to` nowhere
+
+```ruby
+link_to 'Click me', 'javascript:;'
+```
+
 ## CSS
 
 ### Position: Absolute
@@ -85,3 +103,17 @@ The CSS:
   min-height: 100vh;
 }
 ```
+
+## Javascript
+
+### [How to query select with wildcard?](https://stackoverflow.com/questions/8714090/queryselector-wildcard-element-match)
+
+Eg. Imagine that we want to select all elements whose ID starts with `restaurant-`
+
+We can `document.querySelector("[id^='restaurant-']")` will match all ids starting with `restaurant-`.
+
+We can also use:
+
+- `[id$='restaurant-']` will match all ids ending with `restaurant-`.
+- `[id*='restaurant-']` will match all ids containing `restaurant-`.
+
