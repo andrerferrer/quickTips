@@ -9,7 +9,8 @@ This is a repository with some quick tips.
 ### [Git Troubleshooting Cheatsheet](https://ohshitgit.com/)
 
 ## Git && Github
-### [Git pull rebase (PT-BR)](https://pt.stackoverflow.com/questions/279562/qual-a-diferen%C3%A7a-entre-git-pull-e-git-pull-rebase)
+### - [Git pull rebase (PT-BR)](https://pt.stackoverflow.com/questions/279562/qual-a-diferen%C3%A7a-entre-git-pull-e-git-pull-rebase)
+### - [Find the Root of the repo](https://stackoverflow.com/questions/957928/is-there-a-way-to-get-the-git-root-directory-in-one-command)
 
 ## Rails
 ### [Schema.rb into schema draw](https://dbdiagram.io/d)
