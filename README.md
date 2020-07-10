@@ -63,6 +63,8 @@ You an also create a `link_to` nowhere
 link_to 'Click me', 'javascript:;'
 ```
 
+`javascript:;` is the Javascript no operator. 
+
 ## CSS
 
 ### Position: Absolute
