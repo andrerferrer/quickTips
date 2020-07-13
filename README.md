@@ -4,7 +4,7 @@ This is a repository with some quick tips.
 
 [Also check my demos.](https://github.com/andrerferrer/dedemos)
 
-## General Resources
+## General Resources - Some nice links and tools
 ### [Excel to Array](https://www.seabreezecomputers.com/excel2array/)
 ### [Git Troubleshooting Cheatsheet](https://ohshitgit.com/)
 
