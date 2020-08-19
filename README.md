@@ -107,6 +107,10 @@ The CSS:
 }
 ```
 
+Other solutions:
+[With position absolute](https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/)
+
+
 ## Javascript
 
 ### [How to query select with wildcard?](https://stackoverflow.com/questions/8714090/queryselector-wildcard-element-match)
