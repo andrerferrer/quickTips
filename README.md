@@ -150,3 +150,6 @@ We can also use:
 - `[id$='restaurant-']` will match all ids ending with `restaurant-`.
 - `[id*='restaurant-']` will match all ids containing `restaurant-`.
 
+
+## Random
+- [Cast old string values to datetime with migration in Rails PostgreSQL](https://stackoverflow.com/questions/36981205/cast-old-string-values-to-datetime-with-migration-in-rails-postgresql)
