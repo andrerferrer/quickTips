@@ -7,6 +7,8 @@ This is a repository with some quick tips.
 ## General Resources - Some nice links and tools
 ### [Excel to Array](https://www.seabreezecomputers.com/excel2array/)
 ### [Git Troubleshooting Cheatsheet](https://ohshitgit.com/)
+### [UI tips](https://refactoringui.com/)
+### [Simple form bootstrap tips](http://simple-form-bootstrap.plataformatec.com.br/)
 
 ## Git && Github
 ### - [Git pull rebase (PT-BR)](https://pt.stackoverflow.com/questions/279562/qual-a-diferen%C3%A7a-entre-git-pull-e-git-pull-rebase)
