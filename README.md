@@ -155,3 +155,4 @@ We can also use:
 
 ## Random
 - [Cast old string values to datetime with migration in Rails PostgreSQL](https://stackoverflow.com/questions/36981205/cast-old-string-values-to-datetime-with-migration-in-rails-postgresql) - `PG::DatatypeMismatch`
+- [How to refer to a namespaced controller in the routes  ](https://stackoverflow.com/questions/27387842/rails-4-how-to-match-routes-in-namespace)
