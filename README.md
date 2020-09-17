@@ -25,15 +25,15 @@ This is a repository with some quick tips.
 
 ## CSS
 
-### [Position: Absolute]()
+### [Position: Absolute](https://github.com/andrerferrer/quickTips/blob/master/CSS/Position%20Absolute.md)
 
-### [Footer]()
+### [Footer](https://github.com/andrerferrer/quickTips/blob/master/CSS/Footer.md)
 
 
 
 ## Javascript
 
-### [How to query select with wildcard?]()
+### [How to query select with wildcard?](https://github.com/andrerferrer/quickTips/blob/master/Javascript/querySelector(wildcard).md)
 
 
 ## Random
