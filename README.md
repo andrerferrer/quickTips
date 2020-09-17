@@ -23,6 +23,8 @@ This is a repository with some quick tips.
 
 - [Create a link to nowhere in rails](https://github.com/andrerferrer/quickTips/blob/master/Rails/Create%20a%20link%20to%20nowhere%20in%20rails.md)
 
+- [Turbolinks back button on browser fix](https://github.com/andrerferrer/quickTips/blob/master/Rails/Turbolinks%20back%20button%20on%20browser%20fix.md)
+
 ## CSS
 
 - [Position: Absolute](https://github.com/andrerferrer/quickTips/blob/master/CSS/Position%20Absolute.md)
