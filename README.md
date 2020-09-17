@@ -95,7 +95,7 @@ The HTML:
   <div id="content-goes-here"> <!-- the id here is just to remind you -->
     Insert your content here
   </div>
-<div id="footer-goes-here"> <!-- the id here is just to remind you -->
+  <div id="footer-goes-here"> <!-- the id here is just to remind you -->
     Insert your footer here
   </div>
 </div>
