@@ -19,7 +19,7 @@ This is a repository with some quick tips.
 
 ### [Show/Remove Navbar/Footer only on certain pages](https://github.com/andrerferrer/quickTips/blob/master/Rails/Show%20or%20Remove%20Navbar%20or%20Footer%20only%20on%20certain%20pages.md)
 
-### Change body style according to the page
+### [Change body style according to the page](https://github.com/andrerferrer/quickTips/blob/master/Rails/Change%20body%20style%20according%20to%20the%20page.md)
 
 ### [Create a link to nowhere in rails](https://stackoverflow.com/questions/12081156/rails-using-link-to-to-make-a-link-without-href)
 
