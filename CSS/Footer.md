@@ -1,5 +1,7 @@
 [go back](https://github.com/andrerferrer/quickTips#quicktips)
 
+## Footer
+
 #### Stick it to the bottom
 
 ##### 1. With `display:flex` :

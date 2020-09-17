@@ -1,6 +1,5 @@
 [go back](https://github.com/andrerferrer/quickTips#quicktips)
 
-
 ### Position: Absolute
 #### Centralize it
 ```CSS
