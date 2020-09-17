@@ -21,24 +21,6 @@ This is a repository with some quick tips.
 
 ### Change body style according to the page
 
-The case: Imagine that we want to implement a different bg-color certain pages. How can we do it?
-
-In the `app/views/layouts/application.html.erb`, we can add to the `body`:
-```erb
-<body class="<%= action_name > <%= controller_name >">
-```
-
-Hence, we can apply the css according to the controller and action:
-```CSS
-body.pages.home {
-  /* Style for the body on pages home */
-}
-
-body.pages.about {
-  /* Style for the body on pages about */
-}
-```
-
 ### [Create a link to nowhere in rails](https://stackoverflow.com/questions/12081156/rails-using-link-to-to-make-a-link-without-href)
 
 ```ruby
