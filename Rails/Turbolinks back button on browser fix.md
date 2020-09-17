@@ -4,7 +4,7 @@
 
 Add to your `app/views/layouts/application.html.erb` on the head:
 
-```HTML
+```erb
 <html>
   <head>
     <title>A Title</title>
