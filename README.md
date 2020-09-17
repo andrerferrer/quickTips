@@ -5,35 +5,35 @@ This is a repository with some quick tips.
 [Also check my demos.](https://github.com/andrerferrer/dedemos)
 
 ## General Resources - Some nice links and tools
-### [Excel to Array](https://www.seabreezecomputers.com/excel2array/)
-### [Git Troubleshooting Cheatsheet](https://ohshitgit.com/)
-### [UI tips](https://refactoringui.com/)
-### [Simple form bootstrap tips](http://simple-form-bootstrap.plataformatec.com.br/)
+- [Excel to Array](https://www.seabreezecomputers.com/excel2array/)
+- [Git Troubleshooting Cheatsheet](https://ohshitgit.com/)
+- [UI tips](https://refactoringui.com/)
+- [Simple form bootstrap tips](http://simple-form-bootstrap.plataformatec.com.br/)
 
 ## Git && Github
-### - [Git pull rebase (PT-BR)](https://pt.stackoverflow.com/questions/279562/qual-a-diferen%C3%A7a-entre-git-pull-e-git-pull-rebase)
-### - [Find the Root of the repo](https://stackoverflow.com/questions/957928/is-there-a-way-to-get-the-git-root-directory-in-one-command)
+- [Git pull rebase (PT-BR)](https://pt.stackoverflow.com/questions/279562/qual-a-diferen%C3%A7a-entre-git-pull-e-git-pull-rebase)
+- [Find the Root of the repo](https://stackoverflow.com/questions/957928/is-there-a-way-to-get-the-git-root-directory-in-one-command)
 
 ## Rails
-### [Schema.rb into schema draw](https://dbdiagram.io/d)
+- [Schema.rb into schema draw](https://dbdiagram.io/d)
 
-### [Show/Remove Navbar/Footer only on certain pages](https://github.com/andrerferrer/quickTips/blob/master/Rails/Show%20or%20Remove%20Navbar%20or%20Footer%20only%20on%20certain%20pages.md)
+- [Show/Remove Navbar/Footer only on certain pages](https://github.com/andrerferrer/quickTips/blob/master/Rails/Show%20or%20Remove%20Navbar%20or%20Footer%20only%20on%20certain%20pages.md)
 
-### [Change body style according to the page](https://github.com/andrerferrer/quickTips/blob/master/Rails/Change%20body%20style%20according%20to%20the%20page.md)
+- [Change body style according to the page](https://github.com/andrerferrer/quickTips/blob/master/Rails/Change%20body%20style%20according%20to%20the%20page.md)
 
-### [Create a link to nowhere in rails](https://github.com/andrerferrer/quickTips/blob/master/Rails/Create%20a%20link%20to%20nowhere%20in%20rails.md)
+- [Create a link to nowhere in rails](https://github.com/andrerferrer/quickTips/blob/master/Rails/Create%20a%20link%20to%20nowhere%20in%20rails.md)
 
 ## CSS
 
-### [Position: Absolute](https://github.com/andrerferrer/quickTips/blob/master/CSS/Position%20Absolute.md)
+- [Position: Absolute](https://github.com/andrerferrer/quickTips/blob/master/CSS/Position%20Absolute.md)
 
-### [Footer](https://github.com/andrerferrer/quickTips/blob/master/CSS/Footer.md)
+- [Footer](https://github.com/andrerferrer/quickTips/blob/master/CSS/Footer.md)
 
 
 
 ## Javascript
 
-### [How to query select with wildcard?](https://github.com/andrerferrer/quickTips/blob/master/Javascript/querySelector(wildcard).md)
+- [How to query select with wildcard?](https://github.com/andrerferrer/quickTips/blob/master/Javascript/querySelector(wildcard).md)
 
 
 ## Random
