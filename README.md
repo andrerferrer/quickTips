@@ -23,6 +23,19 @@ This is a repository with some quick tips.
 
 ### [Create a link to nowhere in rails](https://github.com/andrerferrer/quickTips/blob/master/Rails/Create%20a%20link%20to%20nowhere%20in%20rails.md)
 
+## CSS
+
+### Position: Absolute
+#### Centralize it
+```CSS
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  //If needed
+  //text-align: center;
+```
 ### Footer
 
 #### Stick it to the bottom
