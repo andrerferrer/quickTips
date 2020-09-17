@@ -92,10 +92,10 @@ Use a `display: flex` to make the content take all the available space that is n
 The HTML:
 ```HTML
 <div class="wrapper">
-  <div class="content">
+  <div id="content-goes-here"> <!-- the id here is just to remind you -->
     Insert your content here
   </div>
-  <div class="footer">
+<div id="footer-goes-here"> <!-- the id here is just to remind you -->
     Insert your footer here
   </div>
 </div>
