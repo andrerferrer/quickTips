@@ -1,5 +1,7 @@
 [go back](https://github.com/andrerferrer/quickTips#quicktips)
 
+## Create a link to nowhere in rails
+
 [reference](https://stackoverflow.com/questions/12081156/rails-using-link-to-to-make-a-link-without-href)
 
 ```ruby

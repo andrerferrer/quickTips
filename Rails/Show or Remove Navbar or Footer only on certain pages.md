@@ -1,5 +1,7 @@
 [go back](https://github.com/andrerferrer/quickTips#quicktips)
 
+### Show/Remove Navbar/Footer only on certain pages
+
 Add a [new layout](https://guides.rubyonrails.org/layouts_and_rendering.html) and call it in the controller
 ```ruby
 class Controller < ApplicationController
