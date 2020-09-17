@@ -17,7 +17,7 @@ This is a repository with some quick tips.
 ## Rails
 ### [Schema.rb into schema draw](https://dbdiagram.io/d)
 
-### [Show/Remove Navbar/Footer only on certain pages](https://github.com/andrerferrer/quickTips/blob/master/Show or Remove Navbar or Footer only on certain pages.md)
+### [Show/Remove Navbar/Footer only on certain pages](https://github.com/andrerferrer/quickTips/blob/master/Rails/Show%20or%20Remove%20Navbar%20or%20Footer%20only%20on%20certain%20pages.md)
 
 ### Change body style according to the page
 
