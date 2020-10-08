@@ -1,6 +1,6 @@
 [go back](https://github.com/andrerferrer/quickTips#quicktips)
 
-### Preselect Check box with Rails Simple_form
+## Preselect Check box with Rails Simple_form
 
 The case: Imagine that we want to Preselect Check box with Rails Simple_form. How can we do it?
 
@@ -23,6 +23,8 @@ We need to pass a `checked` value to the input:
 
 ```
 
-Sources:
-https://github.com/heartcombo/simple_form/issues/643
-https://stackoverflow.com/questions/4116415/preselect-check-box-with-rails-simple-form
+### Sources:
+
+- https://github.com/heartcombo/simple_form/issues/643
+
+- https://stackoverflow.com/questions/4116415/preselect-check-box-with-rails-simple-form
