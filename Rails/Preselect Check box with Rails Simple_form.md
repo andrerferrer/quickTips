@@ -7,7 +7,19 @@ The case: Imagine that we want to Preselect Check box with Rails Simple_form. Ho
 We need to pass a `checked` value to the input:
 
 ```erb
-<%= f.input :notify, label: "Notification", as: :check_boxes, collection: ["None", "Daily", "Weekly", "Monthly", "Quarterly", "Yearly"], :item_wrapper_class => 'inline', :checked => ["None", true] %>
+<%= f.input :notify, 
+            label: "Notification", 
+            as: :check_boxes, 
+            collection: [
+              "None", 
+              "Daily", 
+              "Weekly", 
+              "Monthly", 
+              "Quarterly", 
+              "Yearly"
+            ], 
+            item_wrapper_class: 'inline', 
+            checked: ["None", true] %>
 
 ```
 
