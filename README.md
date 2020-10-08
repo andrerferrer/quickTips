@@ -25,6 +25,8 @@ This is a repository with some quick tips.
 
 - [Turbolinks back button on browser fix](https://github.com/andrerferrer/quickTips/blob/master/Rails/Turbolinks%20back%20button%20on%20browser%20fix.md)
 
+- [Preselect Check box with Rails Simple_form](https://github.com/andrerferrer/quickTips/blob/master/Rails/Preselect%20Check%20box%20with%20Rails%20Simple_form.md)
+
 ## CSS
 
 - [Position: Absolute](https://github.com/andrerferrer/quickTips/blob/master/CSS/Position%20Absolute.md)
