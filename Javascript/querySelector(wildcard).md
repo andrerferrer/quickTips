@@ -1,6 +1,6 @@
 [go back](https://github.com/andrerferrer/quickTips#quicktips)
 
-### [How to query select with wildcard?]
+## [How to query select with wildcard?]
 
 [reference](https://stackoverflow.com/questions/8714090/queryselector-wildcard-element-match)
 

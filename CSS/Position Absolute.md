@@ -1,6 +1,6 @@
 [go back](https://github.com/andrerferrer/quickTips#quicktips)
 
-### Position: Absolute
+## Position: Absolute
 #### Centralize it
 ```CSS
   position: absolute;

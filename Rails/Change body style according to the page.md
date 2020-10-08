@@ -1,6 +1,6 @@
 [go back](https://github.com/andrerferrer/quickTips#quicktips)
 
-### Change body style according to the page
+## Change body style according to the page
 
 The case: Imagine that we want to implement a different bg-color certain pages. How can we do it?
 
