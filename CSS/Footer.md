@@ -54,6 +54,21 @@ The CSS:
 }
 ```
 
-##### 3. Other solutions:
+##### 3. With bootstrap:
+
+```erb
+    <div class="d-flex flex-column min-vh-100">
+      <%= render 'shared/navbar' %>
+      <%= render 'shared/flashes' %>
+      <article class="flex-grow-1">
+        <%= yield %>
+      </article>
+      <%= render 'shared/footer' %>
+    </div>
+```
+
+Credits go to [Rahul](https://github.com/rahulkeerthi).
+
+##### 4. Other solutions:
 
 - [With position absolute](https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/).
