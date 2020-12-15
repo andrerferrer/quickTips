@@ -10,4 +10,4 @@
 
 4. use it in your app with `process.env.API_KEY`.
 
-    e.g.:
+    [Check this practical example for more](https://github.com/andrerferrer/simple-mapbox-demo/tree/master#usage)
