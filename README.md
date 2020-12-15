@@ -33,7 +33,8 @@ This is a repository with some quick tips.
 
 - [Footer](https://github.com/andrerferrer/quickTips/blob/master/CSS/Footer.md)
 
-
+## Webpacker
+- [Config dotenv](Webpacker/config_dotenv.md)
 
 ## Javascript
 
