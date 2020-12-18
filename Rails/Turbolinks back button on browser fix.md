@@ -22,6 +22,7 @@ On the corresponding page (the one that's bugging when you go back), add this in
 <%= provide(:turbolinks_cache, 'no-cache') %>
 
 <%# This solution was implemented from this thread https://stackoverflow.com/questions/39627881/jquery-plugin-initialization-on-browser-back-button-for-turbolinks-rails-5/39801052#39801052 %>
+<%# also this https://stackoverflow.com/questions/36497723/select2-with-ajax-gets-initialized-several-times-with-rails-turbolinks-events/41915129#41915129 %>
 ```
 
 And that's it!
