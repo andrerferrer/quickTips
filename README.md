@@ -27,6 +27,10 @@ This is a repository with some quick tips.
 
 - [Preselect Check box with Rails Simple_form](https://github.com/andrerferrer/quickTips/blob/master/Rails/Preselect%20Check%20box%20with%20Rails%20Simple_form.md)
 
+  ### Devise
+    - [Redirect to another](https://github.com/heartcombo/devise/wiki/How-To:-Redirect-to-a-specific-page-on-successful-sign-in)
+
+
 ## CSS
 
 - [Position: Absolute](https://github.com/andrerferrer/quickTips/blob/master/CSS/Position%20Absolute.md)
