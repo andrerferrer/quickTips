@@ -31,6 +31,8 @@ This is a repository with some quick tips.
     - [Redirect to another after sign in](https://github.com/heartcombo/devise/wiki/How-To:-Redirect-to-a-specific-page-on-successful-sign-in)
     - [Redirect to another after sign up](https://github.com/heartcombo/devise/wiki/How-To:-Redirect-to-a-specific-page-on-successful-sign-up-%28registration%29)
 
+  ### Active Record
+    - [Concatenate two queries with active record union gem](https://github.com/brianhempel/active_record_union)
 
 ## CSS
 
