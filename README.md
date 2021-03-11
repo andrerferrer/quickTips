@@ -8,7 +8,7 @@ This is a repository with some quick tips.
 - [Excel to Array](https://www.seabreezecomputers.com/excel2array/)
 - [Git Troubleshooting Cheatsheet](https://ohshitgit.com/)
 - [UI tips](https://refactoringui.com/)
-- [Simple form bootstrap tips](http://simple-form-bootstrap.plataformatec.com.br/)
+- [Simple form bootstrap tips](https://simple-form-bootstrap.herokuapp.com/)
 - [Design resources](Resources/design_resources.md)
 
 ## Git && Github
