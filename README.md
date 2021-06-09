@@ -35,6 +35,9 @@ This is a repository with some quick tips.
   ### Active Record
     - [Concatenate two queries with active record union gem](https://github.com/brianhempel/active_record_union)
 
+  ### Etc
+    - [Check if all keys are in the params](Rails/Check%20if%20all%20keys%20are%20in%20the%20params.md)
+
 ## CSS
 
 - [Position: Absolute](https://github.com/andrerferrer/quickTips/blob/master/CSS/Position%20Absolute.md)
