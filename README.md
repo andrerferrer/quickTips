@@ -37,6 +37,7 @@ This is a repository with some quick tips.
 
   ### Etc
     - [Check if all keys are in the params](Rails/Check%20if%20all%20keys%20are%20in%20the%20params.md)
+    - [Self on Active Record](Rails/Self%20on%20Active%20Record.md)
 
 ## CSS
 
