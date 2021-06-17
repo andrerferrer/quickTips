@@ -28,6 +28,8 @@ This is a repository with some quick tips.
 
 - [Preselect Check box with Rails Simple_form](https://github.com/andrerferrer/quickTips/blob/master/Rails/Preselect%20Check%20box%20with%20Rails%20Simple_form.md)
 
+- [Use a helper in a controller](Rails/Use%20a%20helper%20in%20a%20controller.md)
+
   ### Devise
     - [Redirect to another after sign in](https://github.com/heartcombo/devise/wiki/How-To:-Redirect-to-a-specific-page-on-successful-sign-in)
     - [Redirect to another after sign up](https://github.com/heartcombo/devise/wiki/How-To:-Redirect-to-a-specific-page-on-successful-sign-up-%28registration%29)
