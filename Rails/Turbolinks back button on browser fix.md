@@ -25,6 +25,11 @@ On the corresponding page (the one that's bugging when you go back), add this in
 <%# also this https://stackoverflow.com/questions/36497723/select2-with-ajax-gets-initialized-several-times-with-rails-turbolinks-events/41915129#41915129 %>
 ```
 
+## [Turbolinks removed from a specific link](https://stackoverflow.com/a/45269491)
+```erb
+  <%= link_to "Policy", policy_path, "data-turbolinks": false %>
+```
+
 And that's it!
 
 Good Luck Have Fun
