@@ -47,6 +47,9 @@ This is a repository with some quick tips.
 
 - [Footer](https://github.com/andrerferrer/quickTips/blob/master/CSS/Footer.md)
 
+- [Flexbox - Everything centered](https://stackoverflow.com/questions/22206587/flexbox-how-to-justify-content-with-space-between-and-have-everything-centered)
+
+
 ## Webpacker
 - [Config dotenv](Webpacker/config_dotenv.md)
 
