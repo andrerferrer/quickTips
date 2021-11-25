@@ -49,6 +49,7 @@ This is a repository with some quick tips.
 
 - [Flexbox - Everything centered](https://stackoverflow.com/questions/22206587/flexbox-how-to-justify-content-with-space-between-and-have-everything-centered)
 
+- [Icon in submit button with Simple Form]()
 
 ## Webpacker
 - [Config dotenv](Webpacker/config_dotenv.md)
