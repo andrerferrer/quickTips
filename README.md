@@ -1,6 +1,6 @@
 # quickTips
 
-This is a repository with some quick tips. 
+This is a repository with some quick tips.
 
 [Also check my demos.](https://github.com/andrerferrer/dedemos)
 
@@ -40,7 +40,7 @@ This is a repository with some quick tips.
   ### Etc
     - [Check if all keys are in the params](Rails/Check%20if%20all%20keys%20are%20in%20the%20params.md)
     - [Self on Active Record](Rails/Self%20on%20Active%20Record.md)
-
+    - [Icon in submit button with Simple Form](Rails/Icon%20in%20submit%20button%20with%20Simple%20Form.md)
 ## CSS
 
 - [Position: Absolute](https://github.com/andrerferrer/quickTips/blob/master/CSS/Position%20Absolute.md)
@@ -48,8 +48,6 @@ This is a repository with some quick tips.
 - [Footer](https://github.com/andrerferrer/quickTips/blob/master/CSS/Footer.md)
 
 - [Flexbox - Everything centered](https://stackoverflow.com/questions/22206587/flexbox-how-to-justify-content-with-space-between-and-have-everything-centered)
-
-- [Icon in submit button with Simple Form]()
 
 ## Webpacker
 - [Config dotenv](Webpacker/config_dotenv.md)
