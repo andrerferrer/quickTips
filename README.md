@@ -26,6 +26,8 @@ This is a repository with some quick tips.
 
 - [Turbolinks back button on browser fix](https://github.com/andrerferrer/quickTips/blob/master/Rails/Turbolinks%20back%20button%20on%20browser%20fix.md)
 
+- [Turbolinks button disable - Link to doesn't work the anchor](Rails/Turbolinks%20button%20disable.md)
+
 - [Preselect Check box with Rails Simple_form](https://github.com/andrerferrer/quickTips/blob/master/Rails/Preselect%20Check%20box%20with%20Rails%20Simple_form.md)
 
 - [Use a helper in a controller](Rails/Use%20a%20helper%20in%20a%20controller.md)
